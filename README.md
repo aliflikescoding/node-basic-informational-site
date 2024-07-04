@@ -1,5 +1,3 @@
-# basic_informational_site_project
-
 <p align="center">
   <h1 align="center">A basic informationa site Project built using pure NodeJS</h1>
 </p>
