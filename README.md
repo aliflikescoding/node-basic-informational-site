@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">A basic informationa site Project built using pure NodeJS</h1>
+  <h1 align="center">A basic information site Project built using pure NodeJS</h1>
 </p>
 
 ## Description
